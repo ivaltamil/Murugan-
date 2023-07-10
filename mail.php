@@ -1,4 +1,5 @@
 <?php
+echo("hi")
  $to = "stamilselvi2k2@gmail.com";
  $subject = "THANK YOU FOR YOUR ORDER";
 
